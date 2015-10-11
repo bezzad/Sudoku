@@ -4,10 +4,8 @@
 
 Sudoku 9×9 puzzle application designed in C# winForm.
 
---------------------------------
-### How To Use The Examples
-
 Screen capture of the app:
+
 ![First Capture](https://raw.githubusercontent.com/Behzadkhosravifar/Sudoku/master/img/appScreenShut.png)
 
 --------------------------
